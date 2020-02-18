@@ -1,4 +1,4 @@
-# CV_analysis_sim
+# Sim_CV_analysis
 Simple simulation of CV analysis in long-term plasticity based on the binomial distribution
 - This script runs in Igor Pro, which can be downloaded as a demo version from https://www.wavemetrics.com/support/demos.
 - Load the script into Igor Pro. Go into Macros menu and pick 'Set up simulations'. A panel is created.
